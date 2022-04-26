@@ -1,0 +1,14 @@
+{
+	"personlist": ["Hannah", "Kori", "Luke", "Mella", "Jayden"],
+	"placelist": ["city", "lake", "theater" , "pool" , "car"],
+	"thinglist": ["phone", "food", "heart", "house" , "hammer"],
+	"verblist": ["eating", "enjoying", "having", "yelling", "jumping", "talking", "cooking"],
+	"adjlist": ["flowery", "careless", "blue", "beautiful", "adorable", "ugly"],
+	"themes": [
+		{"Headings": "cadetblue" , "Background": "#fff6ba" , "story": "coral"},
+		{"Headings": "#00A5E3", "Background": "#8DD7BF" , "story": "#FF96C5"}, 
+		{"Headings": "#FC6238" , "Background": "#FFD872" , "story": "#8B668B"}, 
+		{"Headings": "#4eb8c3" , "Background": "#312342" , "story": "#cfe633"}, 
+		{"Headings": "#f45d4c" , "Background": "#a1dbb2" , "story": "#f7a541"}
+	]
+}
